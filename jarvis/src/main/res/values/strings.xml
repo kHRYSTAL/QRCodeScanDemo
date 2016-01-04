@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QR_CodeScan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="scan_text">将二维码放入框内, 即可收款</string>
+    <string name="scan_back">&lt;&#160;返回</string>
+    <string name="scan_title">微信收款</string>
+
+</resources>

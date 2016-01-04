@@ -1,0 +1,2 @@
+include ':app', ':arvis'
+project(':arvis').projectDir = new File('jarvis')
